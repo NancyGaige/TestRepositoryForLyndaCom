@@ -1,6 +1,10 @@
 This is second file
 More changes to this file
+<<<<<<< Updated upstream
 
 Change only on master branch
 but changed also in yetAnotherBranch 
 
+=======
+You are always changing this file
+>>>>>>> Stashed changes
